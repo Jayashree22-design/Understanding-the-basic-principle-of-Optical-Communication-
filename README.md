@@ -19,4 +19,9 @@ Numerical Aperture measurement Jig
  7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
 ---
 
+## Tabulation
+<img width="1038" height="1599" alt="image" src="https://github.com/user-attachments/assets/a3c7d0aa-9eaf-45e4-92d1-a41e9688f08a" />
+<img width="1600" height="1393" alt="image" src="https://github.com/user-attachments/assets/74f24aa8-e0e0-4837-8ead-6e6c32ed9f61" />
+
 ## Result
+Thus, the numerical aperture of the fiber has been measured successfully.
